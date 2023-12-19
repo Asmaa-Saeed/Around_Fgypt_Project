@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "824650774430",
+    "project_id": "around-egypt-1cb7d",
+    "storage_bucket": "around-egypt-1cb7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824650774430:android:ad20b33abfb3496325488f",
+        "android_client_info": {
+          "package_name": "com.example.around_egypt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQavu2-N_b7EHZe0Rx9Wa0RERC7-qNSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
